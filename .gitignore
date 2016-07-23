@@ -1,2 +1,8 @@
 .DS_Store
-./node_modules
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pokemon-fun.iml
+.idea/workspace.xml
+node_modules/
